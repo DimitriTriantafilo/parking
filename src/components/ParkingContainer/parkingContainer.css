@@ -1,0 +1,5 @@
+.cards-container{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background: linear-gradient(236deg, rgba(78,47,25,1) 0%, rgba(0,0,0,1) 21%, rgba(50,21,8,0.9556197478991597) 50%, rgba(0,0,0,1) 87%, rgba(64,37,19,1) 100%);
+}

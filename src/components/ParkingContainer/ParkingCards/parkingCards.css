@@ -1,0 +1,47 @@
+.card-wrap{
+    border-radius: 2rem;
+    border: solid 3px;
+    border-color: linear-gradient(to right,  rgba(82, 133, 139, 0.268), rgba(168, 168, 206, 0.768),);
+    margin: 3rem;
+    background:linear-gradient(42deg, rgba(62,59,56,0.3) 10%, rgba(128,122,241,0.4) 98%);
+    
+    
+}
+.card-wrap:hover{
+    width: 90%;
+    margin: 2rem;
+    border: solid 1px coral;
+    box-shadow: -10px 10px 10px -0px rgba(0, 0, 0, 0.671);
+    border-color: linear-gradient(to right,  rgba(203, 219, 221, 0.981), rgba(219, 219, 246, 0.88),);
+}
+
+.card-info{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 2rem;
+    color: #fff;
+}
+a{
+    text-decoration: none;
+}
+
+.slot-name{
+    color: #fff;
+}
+
+.score{
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+    margin-top: -1.5rem;
+}
+.adress{
+    font-size: 1.2rem;
+}
+.info-column{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

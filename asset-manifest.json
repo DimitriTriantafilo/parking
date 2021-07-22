@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/parking/static/css/main.17192a26.chunk.css",
+    "main.js": "/parking/static/js/main.b4974497.chunk.js",
+    "main.js.map": "/parking/static/js/main.b4974497.chunk.js.map",
+    "runtime-main.js": "/parking/static/js/runtime-main.ad928866.js",
+    "runtime-main.js.map": "/parking/static/js/runtime-main.ad928866.js.map",
+    "static/js/2.d12c70e9.chunk.js": "/parking/static/js/2.d12c70e9.chunk.js",
+    "static/js/2.d12c70e9.chunk.js.map": "/parking/static/js/2.d12c70e9.chunk.js.map",
+    "static/js/3.491a7f11.chunk.js": "/parking/static/js/3.491a7f11.chunk.js",
+    "static/js/3.491a7f11.chunk.js.map": "/parking/static/js/3.491a7f11.chunk.js.map",
+    "index.html": "/parking/index.html",
+    "static/css/main.17192a26.chunk.css.map": "/parking/static/css/main.17192a26.chunk.css.map",
+    "static/js/2.d12c70e9.chunk.js.LICENSE.txt": "/parking/static/js/2.d12c70e9.chunk.js.LICENSE.txt",
+    "static/media/AirGarage.8e250db5.png": "/parking/static/media/AirGarage.8e250db5.png",
+    "static/media/gitHubP.69ffd9cd.png": "/parking/static/media/gitHubP.69ffd9cd.png",
+    "static/media/linkedInP.6211bd58.png": "/parking/static/media/linkedInP.6211bd58.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad928866.js",
+    "static/js/2.d12c70e9.chunk.js",
+    "static/css/main.17192a26.chunk.css",
+    "static/js/main.b4974497.chunk.js"
+  ]
+}

@@ -5,7 +5,7 @@ const API_KEY = process.env.REACT_APP_YELP_API_KEY;
 
 
 export function getSlots(city) {
-    const url = `/v3/businesses/search?location=${city}&term=parking&limit=50`
+    const url = `https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/search?location=${city}&term=parking&limit=50`
     
       return function (dispatch) {
         return axios.get(url,{

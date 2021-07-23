@@ -24,7 +24,7 @@ function ParkingCards({slot}) {
             <div className="card-info">
                 
                 <div className="info-column"> 
-                    <span className="adress"> {slot.location.address1? "adress: " + slot.location.address1 : "missing adress" } </span>
+                    <span className="address"> {slot.location.address1? "address: " + slot.location.address1 : "missing adress" } </span>
                     <p> reviews: {slot.review_count}</p>
                     <div className="stars"><ReactStars
                     count={5}

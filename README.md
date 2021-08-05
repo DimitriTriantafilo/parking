@@ -4,10 +4,5 @@ created with react, redux, JavaScript and lots of CSS
 [Link to Parking APP](https://dimitritriantafilo.github.io/parking/ "Parking APP")
 
 
-![](http://i.imgur.com/UQ2U0EQ.gif)
+![](https://i.imgur.com/UQ2U0EQ.gif)
 
-![](http://i.imgur.com/OUkLi.gif)
-
-![](http://i.imgur.com/Ssfp7.gif)
-
-![](http://i.imgur.com/60bts.gif)

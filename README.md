@@ -3,3 +3,4 @@ A small single-paged app that gets data through Yelp API and lets you find the w
 created with react, redux, JavaScript and lots of CSS
 [Link to Parking APP](https://dimitritriantafilo.github.io/parking/ "Parking APP")
 ![Parking Gif](https://i.imgur.com/UQ2U0EQ.gif)
+<img src="https://i.imgur.com/UQ2U0EQ.gif" width="40" height="40" />

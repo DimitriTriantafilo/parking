@@ -4,7 +4,7 @@ created with react, redux, JavaScript and lots of CSS
 [Link to Parking APP](https://dimitritriantafilo.github.io/parking/ "Parking APP")
 
 
-![](https://i.imgur.com/UQ2U0EQ.gif)
+![](http://i.imgur.com/UQ2U0EQ.gif)
 
 ![](http://i.imgur.com/OUkLi.gif)
 
